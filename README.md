@@ -3,9 +3,9 @@ Personal Touchegg configuration for KDE Plasma touchpad gestures.
 
 ## Installation
 [Install Touchegg first if you haven't already](https://github.com/JoseExposito/touchegg)
-$ `git clone https://github.com/NayamAmarshe/ToucheggKDE.git`
-$ `cd Touchegg*`
-$ `cp touch* ~/.config/touchegg`
+$ `git clone https://github.com/NayamAmarshe/ToucheggKDE.git`  
+$ `cd Touchegg*`  
+$ `cp touch* ~/.config/touchegg`  
 **That's it!**
 
 ## Usage
