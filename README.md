@@ -1,35 +1,22 @@
 # ToucheggKDE
-TouchEgg configuration for Touchpad Gestures like MacOS/Windows for KDE Plasma. Finally, enjoy the multi-touch touchpad gesture goodness of MacOS in KDE Plasma!
-
-## Requirements
-1. Go to `System Settings` -> `Shortcuts` -> `Global Shortcuts` -> `Audio Volume`
-2. Set `Decrease Volume` Shortcut to `Alt+[` and `Increase Volume` Shortcut to `Alt+]`
+Personal Touchegg configuration for KDE Plasma touchpad gestures.
 
 ## Installation
-[Install touchpad first if you haven't already](https://github.com/JoseExposito/touchegg)   
-$ `git clone https://github.com/NayamAmarshe/ToucheggKDE.git`   
-$ `cd Touchegg*`   
-$ `cp touch* ~/.config/touchegg`   
+[Install Touchegg first if you haven't already](https://github.com/JoseExposito/touchegg)
+$ `git clone https://github.com/NayamAmarshe/ToucheggKDE.git`
+$ `cd Touchegg*`
+$ `cp touch* ~/.config/touchegg`
 **That's it!**
 
 ## Usage
 ### Swipe Gestures:
-  - 3 Fingers UP: **Present Windows**   
-  ![Present Windows](https://s2.gifyu.com/images/Present-Windows.gif)
-  - 3 Fingers DOWN: **Show Desktop**   
-    ![Show Desktop](https://s2.gifyu.com/images/Show-desktop.gif)
-  - 3 Fingers LEFT/RIGHT: **Switch Virtual Desktops**   
-    ![Switch Desktop](https://s2.gifyu.com/images/Switch-Desktop.gif)
-  - 4 Fingers UP/DOWN: **Control System Volume**   
-    ![Volume Control](https://s2.gifyu.com/images/Volume-Change.gif)
-  - [Browsers] 4 Fingers LEFT/RIGHT: **Switch Tabs**
+  - 3 Fingers UP: **Show Windows from Current Desktop** (uses <kbd>Ctrl</kbd>+<kbd>F9</kbd>)
+  - 3 Fingers DOWN: **Minimize/Restore All Windows** (uses <kbd>Meta</kbd>+<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>↓</kbd>)
+  - 3 Fingers LEFT/RIGHT: **Task Switcher** (uses <kbd>Alt</kbd>+<kbd>Tab</kbd> for Next Window, <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Tab</kbd> for Previous Window)
+  - 4 Fingers UP/DOWN/LEFT/RIGHT: **Switch Virtual Desktops** (uses <kbd>Meta</kbd>+<kbd>Ctrl</kbd>+<kbd>↑</kbd>/<kbd>↓</kbd>/<kbd>←</kbd>/<kbd>→</kbd>)
 
 ### Pinch Gestures:
-  - 2 Fingers PINCH IN/OUT: **Zoom IN/OUT**
-  - 3 Fingers PINCH IN/OUT: **Desktops Grid View**   
-    ![Desktop Grid View](https://s2.gifyu.com/images/Desktop-Grid.gif)
-  - [Browsers] 4 Fingers PINCH OUT: **Go back**
-  - [Browsers] 4 Fingers PINCH IN: **Go Forward**  
+  - 4 Fingers IN/OUT: **Show Desktop Grid** (uses <kbd>Ctrl</kbd>+<kbd>F8</kbd>)
 
 
 
